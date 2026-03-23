@@ -63,7 +63,7 @@ uvicorn main:app --reload
 ## 📸 Screenshots
 
 ### 🔹 API Overview
-![API Overview](https://raw.githubusercontent.com/username/repo/main/images/final_api_overview.png)
+![API Overview](final_api_overview.png)
 
 ---
 
